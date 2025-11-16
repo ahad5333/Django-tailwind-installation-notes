@@ -208,5 +208,3 @@ python manage.py runserver
 
 ---
 
-Do you want me to make that enhanced version too?
-```
